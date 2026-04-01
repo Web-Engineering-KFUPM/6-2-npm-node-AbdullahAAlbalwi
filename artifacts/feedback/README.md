@@ -4,7 +4,7 @@
 
 - **Lab:** 6-2-node-npm-main
 - **Deadline (Riyadh / UTC+03:00):** 2026-04-01T20:59:00+03:00
-- **Last commit time (from git log):** 2026-04-01T11:48:14+03:00
+- **Last commit time (from git log):** 2026-04-01T11:49:46+03:00
 - **Submission marks:** **20/20** (On time)
 
 
@@ -65,29 +65,27 @@
 **Deductions / Notes**
 - ✅ No deductions. Good job!
 
-### TODO 5: Implement add() and subtract() in utils/operation(s).js — **5/10**
+### TODO 5: Implement add() and subtract() in utils/operation(s).js — **10/10**
 
 **Checklist**
 - ✅ Exports add(numbers)
 - ✅ Exports subtract(numbers)
-- ❌ add(numbers) implements addition logic
-- ❌ subtract(numbers) implements subtraction logic
+- ✅ add(numbers) implements addition logic
+- ✅ subtract(numbers) implements subtraction logic
 
 **Deductions / Notes**
-- ❗ Missing: add(numbers) implements addition logic
-- ❗ Missing: subtract(numbers) implements subtraction logic
+- ✅ No deductions. Good job!
 
-### TODO 6: Implement multiply() and divide() in utils/operation(s).js — **5/10**
+### TODO 6: Implement multiply() and divide() in utils/operation(s).js — **10/10**
 
 **Checklist**
 - ✅ Exports multiply(numbers)
 - ✅ Exports divide(numbers)
-- ❌ multiply(numbers) implements multiplication logic
-- ❌ divide(numbers) implements division logic
+- ✅ multiply(numbers) implements multiplication logic
+- ✅ divide(numbers) implements division logic
 
 **Deductions / Notes**
-- ❗ Missing: multiply(numbers) implements multiplication logic
-- ❗ Missing: divide(numbers) implements division logic
+- ✅ No deductions. Good job!
 
 ### TODO 7: Implement parseNumbers() using lodash in utils/parser.js — **8/10**
 
