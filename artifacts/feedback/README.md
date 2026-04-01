@@ -4,7 +4,7 @@
 
 - **Lab:** 6-2-node-npm-main
 - **Deadline (Riyadh / UTC+03:00):** 2026-04-01T20:59:00+03:00
-- **Last commit time (from git log):** 2026-04-01T11:49:46+03:00
+- **Last commit time (from git log):** 2026-04-01T11:50:36+03:00
 - **Submission marks:** **20/20** (On time)
 
 
@@ -87,17 +87,17 @@
 **Deductions / Notes**
 - ✅ No deductions. Good job!
 
-### TODO 7: Implement parseNumbers() using lodash in utils/parser.js — **8/10**
+### TODO 7: Implement parseNumbers() using lodash in utils/parser.js — **10/10**
 
 **Checklist**
 - ✅ Imports lodash using: import _ from "lodash"
 - ✅ Exports parseNumbers(input)
 - ✅ parseNumbers uses _.map(...)
 - ✅ parseNumbers converts strings to numbers
-- ❌ parseNumbers uses _.compact(...) and returns the parsed values
+- ✅ parseNumbers uses _.compact(...) and returns the parsed values
 
 **Deductions / Notes**
-- ❗ Missing: parseNumbers uses _.compact(...) and returns the parsed values
+- ✅ No deductions. Good job!
 
 ### TODO 8: Implement isValidOperation() using lodash in utils/parser.js — **10/10**
 
