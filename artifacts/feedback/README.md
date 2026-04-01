@@ -4,7 +4,7 @@
 
 - **Lab:** 6-2-node-npm-main
 - **Deadline (Riyadh / UTC+03:00):** 2026-04-01T20:59:00+03:00
-- **Last commit time (from git log):** 2026-04-01T08:40:51Z
+- **Last commit time (from git log):** 2026-04-01T11:46:59+03:00
 - **Submission marks:** **20/20** (On time)
 
 
@@ -41,15 +41,14 @@
 **Deductions / Notes**
 - ✅ No deductions. Good job!
 
-### TODO 3: Parse command line arguments in calculator.js — **0/10**
+### TODO 3: Parse command line arguments in calculator.js — **10/10**
 
 **Checklist**
-- ❌ Reads operation from process.argv[2]
-- ❌ Reads numbers from process.argv.slice(3)
+- ✅ Reads operation from process.argv[2]
+- ✅ Reads numbers from process.argv.slice(3)
 
 **Deductions / Notes**
-- ❗ Missing: Reads operation from process.argv[2]
-- ❗ Missing: Reads numbers from process.argv.slice(3)
+- ✅ No deductions. Good job!
 
 ### TODO 4: Validate input and calculate result in calculator.js — **0/15**
 
