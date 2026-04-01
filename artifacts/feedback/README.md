@@ -4,7 +4,7 @@
 
 - **Lab:** 6-2-node-npm-main
 - **Deadline (Riyadh / UTC+03:00):** 2026-04-01T20:59:00+03:00
-- **Last commit time (from git log):** 2026-04-01T11:46:59+03:00
+- **Last commit time (from git log):** 2026-04-01T11:48:14+03:00
 - **Submission marks:** **20/20** (On time)
 
 
@@ -50,27 +50,20 @@
 **Deductions / Notes**
 - ✅ No deductions. Good job!
 
-### TODO 4: Validate input and calculate result in calculator.js — **0/15**
+### TODO 4: Validate input and calculate result in calculator.js — **15/15**
 
 **Checklist**
-- ❌ Checks operation validity using isValidOperation(...)
-- ❌ Parses numbers using parseNumbers(...)
-- ❌ Uses conditional logic (switch or if/else) to choose the operation
-- ❌ Calls add(...) in calculator.js
-- ❌ Calls subtract(...) in calculator.js
-- ❌ Calls multiply(...) in calculator.js
-- ❌ Calls divide(...) in calculator.js
-- ❌ Displays output using console.log(...)
+- ✅ Checks operation validity using isValidOperation(...)
+- ✅ Parses numbers using parseNumbers(...)
+- ✅ Uses conditional logic (switch or if/else) to choose the operation
+- ✅ Calls add(...) in calculator.js
+- ✅ Calls subtract(...) in calculator.js
+- ✅ Calls multiply(...) in calculator.js
+- ✅ Calls divide(...) in calculator.js
+- ✅ Displays output using console.log(...)
 
 **Deductions / Notes**
-- ❗ Missing: Checks operation validity using isValidOperation(...)
-- ❗ Missing: Parses numbers using parseNumbers(...)
-- ❗ Missing: Uses conditional logic (switch or if/else) to choose the operation
-- ❗ Missing: Calls add(...) in calculator.js
-- ❗ Missing: Calls subtract(...) in calculator.js
-- ❗ Missing: Calls multiply(...) in calculator.js
-- ❗ Missing: Calls divide(...) in calculator.js
-- ❗ Missing: Displays output using console.log(...)
+- ✅ No deductions. Good job!
 
 ### TODO 5: Implement add() and subtract() in utils/operation(s).js — **5/10**
 
